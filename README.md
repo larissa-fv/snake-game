@@ -32,5 +32,4 @@ Este projeto é uma recriação do clássico **Snake Game** desenvolvido em **Ja
 3. Abra o arquivo `index.html` no seu navegador para iniciar o jogo.
 
 ## Demonstração
-
-![Demonstração Snake Game](css/img/snake_game_demo.jpg)
+![image](https://github.com/user-attachments/assets/6ab48a97-3997-420f-a5f4-f40704cfcd02)
